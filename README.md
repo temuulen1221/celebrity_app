@@ -28,4 +28,5 @@ The Celebrity Look-Alike App allows users to upload an image and find their cele
    git clone <repository-url>
    cd celebrity_app
 ### Install the required packages:
+```bash
 pip install Flask tensorflow numpy
